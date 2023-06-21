@@ -110,7 +110,7 @@ public class MobileDriver {
 				
 				break
 
-			efault:
+			default:
 				System.out.println("invalid input");
 				break;
 			}
